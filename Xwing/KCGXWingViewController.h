@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  KCGXWingViewController.h
 //  Xwing
 //
 //  Created by Adrian Perez Lopez on 25/1/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface KCGXWingViewController : UIViewController
 
 @end
-
